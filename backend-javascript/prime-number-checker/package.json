@@ -1,0 +1,19 @@
+{
+  "name": "prime-number-checker",
+  "version": "1.0.0",
+  "description": "A simple npm module for checking if a number is prime.",
+  "keywords": [
+    "prime",
+    "prime-number",
+    "number-theory",
+    "npm",
+    "node"
+  ],
+  "license": "MIT",
+  "author": "Ana Vučić",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
