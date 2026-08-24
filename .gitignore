@@ -1,0 +1,44 @@
+# OS / system files
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor backups / settings
+*~
+*.swp
+*.swo
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.idea/
+
+# Node / npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# Environment / local configuration
+.env
+.env.*
+*.local
+
+# Test / coverage output
+coverage/
+
+# Build artifacts
+dist/
+build/
+dist-ssr/
+
+# JetBrains / Eclipse
+.project
+.classpath
