@@ -1,0 +1,16 @@
+{
+  "name": "weather-service-api",
+  "version": "1.0.0",
+  "description": "A weather service API built with Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ana Vučić",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
