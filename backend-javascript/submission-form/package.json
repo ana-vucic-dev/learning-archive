@@ -1,0 +1,20 @@
+{
+  "name": "submission-form",
+  "version": "0.0.1",
+  "description": "An Express API for handling form submissions.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "freecodecamp"
+  ],
+  "author": "Ana Vučić",
+  "license": "MIT",
+  "type": "module"
+}
