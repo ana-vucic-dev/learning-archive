@@ -1,0 +1,21 @@
+{
+  "name": "data-sanitizer",
+  "version": "1.0.0",
+  "description": "A data sanitizer using custom Express middleware.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "middleware",
+    "freecodecamp"
+  ],
+  "author": "Ana Vučić",
+  "license": "BSD-3-Clause",
+  "type": "module"
+}
