@@ -1,0 +1,19 @@
+{
+  "name": "chat-app",
+  "version": "0.0.1",
+  "description": "freeCodeCamp Certification Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.21.3"
+  },
+  "keywords": [
+    "node",
+    "freecodecamp"
+  ],
+  "author": "Ana Vučić",
+  "license": "MIT",
+  "type": "module"
+}
