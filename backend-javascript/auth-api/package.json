@@ -1,0 +1,23 @@
+{
+  "name": "auth-api",
+  "version": "1.0.0",
+  "description": "JWT Authentication API with role-based authorization.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file .env index.js"
+  },
+  "keywords": [
+    "jwt",
+    "auth",
+    "freecodecamp"
+  ],
+  "author": "Ana Vučić",
+  "license": "BSD-3-Clause",
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "express": "^5.2.1",
+    "helmet": "^8.3.0",
+    "jsonwebtoken": "^9.0.3"
+  }
+}
