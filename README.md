@@ -5,3 +5,4 @@ A collection of projects, exercises, and experiments created while learning and 
 ## Contents
 
 - JavaScript / Node.js
+- Python
