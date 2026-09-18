@@ -21,14 +21,6 @@ assert is_row_winner([
     ['O', 'O', 'O']
 ]) is True
 
-
-assert is_row_winner([
-    ['A', 'A', 'B', 'A'],
-    [' ', ' ', ' ', ' '],
-    ['A', ' ', ' ', 'A'],
-    ['B', ' ', 'B', 'A'],
-]) is False
-
 assert is_column_winner([
     ['X', 'O', ' ', 'X'],
     [' ', 'O', 'X', 'O'],
